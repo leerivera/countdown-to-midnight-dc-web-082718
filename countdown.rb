@@ -5,7 +5,7 @@ def countdown(num)
    while num > 0
     num = num-1
  
-     puts "#{number} SECOND(S)!"
+     puts "#{num} SECOND(S)!"
   
   
   end
