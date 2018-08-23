@@ -2,4 +2,5 @@
 
 def countdown(num)
   num = log 
-  while 
+  while num > 0 
+  
